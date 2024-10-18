@@ -1,0 +1,7 @@
+PUT  http://localhost:3000/admin-users/2
+content-type: application/json
+
+{
+    "username":"131211",
+    "password":"2225555"
+}

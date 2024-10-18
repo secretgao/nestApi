@@ -1,0 +1,10 @@
+POST http://localhost:3000/business
+content-type: application/json
+
+{
+   "phone":"12345",
+   "businessName":"b1usi1nessName",
+   "realName":"realName",
+   "username":"F91929999",
+   "password":"222"
+}

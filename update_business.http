@@ -1,0 +1,14 @@
+PUT  http://localhost:3000/business/6/admin-user/28
+content-type: application/json
+
+{
+  "business": {
+   "phone":"12345999",
+   "businessName":"b1usi1nessName9999",
+   "realName":"realName999"
+  },
+  "adminUser": {
+   "username":"F91929999",
+   "password":"222999"
+  }
+}

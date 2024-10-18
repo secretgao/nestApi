@@ -1,0 +1,6 @@
+PUT  http://localhost:3000/business/6/is-open
+content-type: application/json
+
+{
+
+}
