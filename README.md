@@ -21,18 +21,6 @@ $ pnpm run start:dev
 $ pnpm run start:prod
 ```
 
-## Run tests
-
-```bash
-# unit tests
-$ pnpm run test
-
-# e2e tests
-$ pnpm run test:e2e
-
 ### 项目根目录 .http 结尾文件 测试接口请求 。vscode 安装http 插件 可直接运行测试
 
-# test coverage
-$ pnpm run test:cov
-```
 
